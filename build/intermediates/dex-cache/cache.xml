@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/douglasqueiroz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-0eea038e4dd3047ac3b30747fc435c9aaeb1d971.jar" />
+    </item>
+    <item
+        jar="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-e01327aad78c6ba6c52252f083115131ccb83fa9.jar" />
+    </item>
+    <item
+        jar="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.59/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81">
+        <dex dex="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/pre-dexed/debug/classes-bab65a5ff45fe45cf14ee3dc0e5bc8c47ceed01b.jar" />
+    </item>
+    <item
+        jar="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/pre-dexed/debug/classes-b0e364b2ac9bcfb2235a53221e2f8a300d589e94.jar" />
+    </item>
+    <item
+        jar="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/douglasqueiroz/AndroidStudioProjects/MeuFilho/app/build/intermediates/pre-dexed/debug/classes-cfcddfd4aac3688c594c28f29c1e6ad48df18f88.jar" />
+    </item>
+
+</items>
